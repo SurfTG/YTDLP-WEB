@@ -1,7 +1,7 @@
 port: 3033
 downloadPath: /downloads
 downloaderPath: /usr/bin/yt-dlp
-# Optional settings
+# Optional settings 
 require_auth: true
 username: sf369
 password: cricket321
