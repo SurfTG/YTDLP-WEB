@@ -13,6 +13,6 @@ downloads
 build/
 yt-dlp-webui
 session.dat
-config.yml
+#config.yml
 cookies.txt
 examples/
