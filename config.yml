@@ -1,0 +1,8 @@
+port: 3303
+downloadPath: /downloads
+downloaderPath: /usr/bin/yt-dlp
+# Optional settings
+require_auth: true
+username: sf369
+password: cricket321
+queue_size: 4
