@@ -1,4 +1,4 @@
-port: 3303
+port: 3033
 downloadPath: /downloads
 downloaderPath: /usr/bin/yt-dlp
 # Optional settings
